@@ -1,8 +1,12 @@
+
+
+
+
 import { useState } from "react";
 import { userRows } from "../../data";
 import { DataGrid } from "@mui/x-data-grid";
 import { Link } from "react-router-dom";
-import "./UserList.css";
+import "./Product.css";
 import { DeleteOutline, Edit } from "@mui/icons-material";
 
 function UserList() {
