@@ -17,7 +17,6 @@ import { Link } from 'react-router-dom'
 import './SideBar.css'
 function SideBar() {
   return (
-    <div>
       <div className="sideBar">
         <div className="sideBarWrapper">
           <div className="sideBarMenu">
@@ -89,7 +88,6 @@ function SideBar() {
           </div>
         </div>
       </div>
-    </div>
   )
 }
 
